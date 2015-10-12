@@ -9,6 +9,7 @@
   <license>Apache 2.0</license>
 
   <author email="wojciech.ziniewicz@gmail.com">Wojciech Ziniewicz</author>
+  <url type="website">https://github.com/endpointcorp/rosout_logger</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>std_msgs</build_depend>
